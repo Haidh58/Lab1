@@ -1,0 +1,12 @@
+
+A Text-Based Adventure Game with the following features
+
+Written as an Object Oriented Program
+
+Contains a character with user defined name and inventory
+
+The player has the ability to pick up from and drop items to the game world
+
+The player is able to navigate the game world which has five or more rooms
+
+A menu system with start, restart, save, and load features
